@@ -108,7 +108,7 @@ def txt():
 
     # specified font style and size 
 
-    pen.write("Sangram Das", font=( 
+    pen.write("Point", font=( 
 
       "Verdana", 12, "bold")) 
 
