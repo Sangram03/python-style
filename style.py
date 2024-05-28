@@ -12,7 +12,7 @@ pen = turtle.Turtle()
 
 def curve(): 
 
-    for i in range(200): 
+    for i in range(250): 
 
   
 
